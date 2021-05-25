@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_section{
+    border-bottom: 1px solid rgb(148, 147, 147);
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 20px 0;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+width: 38%;
+}
+nav{
+
+width: 40%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 11px;
+
+font-size: 26px;
+
+text-transform: capitalize;
+
+color: #656565;
+}
+.content_section{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content_section h1{
+    
+font-size: 50px;
+    
+text-transform: capitalize;
+    
+color: #1C2C55;
+    
+margin-top: 20px;
+}
+.content_section h2{
+    
+font-size: 46px;
+    
+color: #0387F3;
+    
+margin: 10px 0;
+}
+.content_section p{
+    
+color: #303838;
+    
+font-size: 18px;
+    
+margin-bottom: 21px;
+}
+.content_section img{
+}
+
+.success{
+
+width: 70%;
+
+margin: auto;
+
+overflow: hidden;
+
+text-align: right;
+
+margin-top: 100px;
+
+margin-bottom: 100px;
+}
+.success_left_content{
+
+float: left;
+
+
+
+width: 48%;
+}
+.success_right_content{
+
+float: right;
+
+width: 48%;
+
+
+}
+.success_left_content h1{
+
+font-size: 50px;
+
+color: #E55C6F;
+}
+.success_left_content p{
+
+color: #65787D;
+
+font-size: 18px;
+}
+.success_right_content h1{
+
+color: #0E2552;
+
+font-size: 57px;
+}
+.feature_section{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-bottom: 100px;
+}
+.feature_one{
+
+width: 19%;
+
+float: left;
+
+text-align: center;
+
+padding: 44px 30px;
+
+margin-left: 9%;
+
+background-color:  #FBE7E9;
+}
+.feature_two{
+
+width: 19%;
+
+float: left;
+
+text-align: center;
+
+
+
+padding: 47px 20px;
+
+margin-left: 10%;
+
+background-color:  #d6f8ed;
+}
+.feature_three{
+    text-align: center;
+    padding: 40px 30px;
+    width: 21%;
+    float: right;
+    margin-right: 3%;
+    background-color:  #FF647F;
+}
+.feature_one img, .feature_two img, .feature_three img{
+
+width: 100%;
+}
+.feature_one h2, .feature_two h2, .feature_three p{
+
+text-align: left;
+
+
+color: #3D3C57;
+
+margin: 15px 0px;
+}
+.feature_one p, .feature_two p, .feature_three p{
+    
+text-align: left;
+    
+color: #3D3C57;
+}
+footer{
+
+background-color: #008CFF;
+
+text-align: center;
+
+padding: 50px 0px;
+}
+footer p{
+
+color: #55C3FB;
+
+font-size: 18px;
+}
+footer p span{
+    
+color: #FEFFFF;
+    
+font-size: 20px;
+    
+font-weight: 700;
+    
+letter-spacing: 5px;
+}
